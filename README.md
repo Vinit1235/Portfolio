@@ -16,7 +16,7 @@ Third-year B.Tech Computer Science (Data Science) student, based in Maharashtra,
 - 🔭 Building AI-powered automation systems and ML models, from multi-agent pipelines to OCR to semantic search
 - 🧠 Working across n8n, LangChain, RAG pipelines, and applied ML (scikit-learn, TensorFlow)
 - 🌱 Completed internships in AI-powered web development (InAmigos Foundation) and computer vision (WISERLI — built a YOLO model for parcel detection)
-- 📫 Reach me at **vinit1203@gmail.com**
+- 📫 Reach me at **https://www.linkedin.com/in/vinit-badiger/**
 
 <br>
 
