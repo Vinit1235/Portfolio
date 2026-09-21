@@ -115,3 +115,4 @@ Room-sharing coordination platform, full JS stack
 <div align="center">
 <sub>Open to AI/ML internships and collaborations — let's build something.</sub>
 </div>
+ 
